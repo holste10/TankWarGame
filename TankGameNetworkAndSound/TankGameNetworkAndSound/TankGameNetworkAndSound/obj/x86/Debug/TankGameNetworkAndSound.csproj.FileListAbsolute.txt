@@ -1,0 +1,7 @@
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\bin\x86\Debug\Content\tankBody.xnb
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\bin\x86\Debug\TankGameNetworkAndSound.exe
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\bin\x86\Debug\TankGameNetworkAndSound.pdb
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\obj\x86\Debug\TankGameNetworkAndSound.exe
+C:\NITH\År3 - Høst\PG516 - XNA\MyOwnProjects\TankGameNetworkAndSound\TankGameNetworkAndSound\TankGameNetworkAndSound\obj\x86\Debug\TankGameNetworkAndSound.pdb

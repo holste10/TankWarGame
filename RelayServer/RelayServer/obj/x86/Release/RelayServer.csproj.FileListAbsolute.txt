@@ -1,0 +1,6 @@
+C:\XNAProjects\RelayServer\RelayServer\bin\Release\RelayServer.exe.config
+C:\XNAProjects\RelayServer\RelayServer\bin\Release\RelayServer.exe
+C:\XNAProjects\RelayServer\RelayServer\bin\Release\RelayServer.pdb
+C:\XNAProjects\RelayServer\RelayServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\XNAProjects\RelayServer\RelayServer\obj\x86\Release\RelayServer.exe
+C:\XNAProjects\RelayServer\RelayServer\obj\x86\Release\RelayServer.pdb
